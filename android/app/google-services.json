@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563084132339",
+    "project_id": "apnapg-45f72",
+    "storage_bucket": "apnapg-45f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563084132339:android:cc6e1951675dd1be88dc86",
+        "android_client_info": {
+          "package_name": "com.example.hotels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGn_U0qez0Q07gkjY8WZTOZkFGgfPWXDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
